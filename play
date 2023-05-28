@@ -1,3 +1,3 @@
-if game.PlaceId == 13405136473 then -- PLAYPRINTS World
+if game.GameId == 13405136473 then -- PLAYPRINTS World
    loadstring(game:HttpGet('https://pastebin.com/raw/QMHQ97eh'))()
 end
